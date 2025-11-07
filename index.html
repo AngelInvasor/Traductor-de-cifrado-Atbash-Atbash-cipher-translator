@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Traductor Atbash</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <div class="language-selector">
+            <label for="language-select">🌐 Idioma / Language / Idioma:</label>
+            <select id="language-select" class="language-dropdown">
+                <option value="es">Español</option>
+                <option value="en">English</option>
+                <option value="pt">Português</option>
+            </select>
+        </div>
+        <header>
+            <h1 id="title">🔐 Traductor Atbash</h1>
+            <p class="subtitle" id="subtitle">Convierte texto a criptograma Atbash y viceversa</p>
+        </header>
+
+        <main>
+            <div class="translator-box">
+                <div class="input-section">
+                    <label for="input-text" id="input-label">Texto original:</label>
+                    <textarea 
+                        id="input-text" 
+                        data-placeholder="es"
+                        placeholder="Escribe el texto que deseas cifrar o descifrar aquí..."
+                        rows="6"
+                    ></textarea>
+                </div>
+
+                <div class="buttons">
+                    <button id="encode-btn" class="btn btn-primary" data-text="es">
+                        → Cifrar a Atbash →
+                    </button>
+                    <button id="decode-btn" class="btn btn-secondary" data-text="es">
+                        ← Descifrar de Atbash ←
+                    </button>
+                    <button id="clear-btn" class="btn btn-clear" data-text="es">
+                        Limpiar
+                    </button>
+                </div>
+
+                <div class="output-section">
+                    <label for="output-text" id="output-label">Resultado:</label>
+                    <textarea 
+                        id="output-text" 
+                        data-placeholder="es"
+                        placeholder="El resultado aparecerá aquí..."
+                        rows="6"
+                        readonly
+                    ></textarea>
+                    <button id="copy-btn" class="btn btn-copy" data-text="es">
+                        📋 Copiar resultado
+                    </button>
+                </div>
+            </div>
+
+            <div class="info-section">
+                <h2 id="info-title">ℹ️ ¿Qué es Atbash?</h2>
+                <p id="info-description">
+                    Atbash es un método de cifrado por sustitución donde cada letra se reemplaza 
+                    por su equivalente en el alfabeto invertido:
+                </p>
+                <div class="alphabet-example">
+                    <div>A ↔ Z</div>
+                    <div>B ↔ Y</div>
+                    <div>C ↔ X</div>
+                    <div>D ↔ W</div>
+                    <div>E ↔ V</div>
+                    <div>...</div>
+                </div>
+                <p class="note" id="info-note">
+                    <strong id="note-label">Nota:</strong> <span id="note-text">Atbash es simétrico, por lo que cifrar y descifrar 
+                    funcionan de la misma manera. Los números y símbolos no se modifican.</span>
+                </p>
+            </div>
+        </main>
+
+        <footer>
+            <p id="footer-text">Creado con ❤️ para traducir texto a Atbash</p>
+        </footer>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
+

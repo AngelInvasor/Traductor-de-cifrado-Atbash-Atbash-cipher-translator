@@ -1,0 +1,64 @@
+═══════════════════════════════════════════════════════════
+  🔐 TRADUCTOR ATBASH - INSTRUCCIONES DE USO
+═══════════════════════════════════════════════════════════
+
+ARCHIVOS INCLUIDOS:
+  - index.html     (Página principal)
+  - styles.css     (Estilos)
+  - script.js      (Funcionalidad)
+  - README.md      (Documentación)
+
+═══════════════════════════════════════════════════════════
+  OPCIÓN 1: USAR LOCALMENTE (MÁS FÁCIL)
+═══════════════════════════════════════════════════════════
+
+1. Extrae todos los archivos en una carpeta
+2. Haz doble clic en "index.html"
+3. ¡Listo! La aplicación se abrirá en tu navegador
+
+NOTA: Todos los archivos deben estar en la misma carpeta.
+
+═══════════════════════════════════════════════════════════
+  OPCIÓN 2: COMPARTIR POR CORREO/WEB
+═══════════════════════════════════════════════════════════
+
+MÉTODO A - Subir a Google Drive / Dropbox:
+  1. Sube la carpeta completa a Google Drive o Dropbox
+  2. Comparte el enlace con la persona
+  3. La persona descarga la carpeta y abre index.html
+
+MÉTODO B - Subir a GitHub Pages (GRATIS y en línea):
+  1. Ve a https://github.com y crea una cuenta (si no tienes)
+  2. Crea un nuevo repositorio (botón verde "New")
+  3. Sube todos los archivos
+  4. Ve a Settings > Pages
+  5. Selecciona la rama "main" y guarda
+  6. GitHub te dará un enlace público (ejemplo: 
+     https://tu-usuario.github.io/traductor-atbash)
+  7. Comparte ese enlace con quien quieras
+
+═══════════════════════════════════════════════════════════
+  OPCIÓN 3: USAR NETLIFY DROP (MUY FÁCIL)
+═══════════════════════════════════════════════════════════
+
+1. Ve a https://app.netlify.com/drop
+2. Arrastra la carpeta completa a la página
+3. Netlify te dará un enlace público automáticamente
+4. Comparte ese enlace
+
+═══════════════════════════════════════════════════════════
+  CARACTERÍSTICAS
+═══════════════════════════════════════════════════════════
+
+✓ Cifrado y descifrado Atbash
+✓ Soporte para 3 idiomas: Español, Inglés, Portugués
+✓ Interfaz moderna y fácil de usar
+✓ Funciona sin internet (una vez descargado)
+✓ Compatible con todos los navegadores modernos
+
+═══════════════════════════════════════════════════════════
+
+¿Dudas? La aplicación es completamente funcional y no 
+requiere instalación ni servidor. Solo necesitas un 
+navegador web moderno.
+
