@@ -22,20 +22,11 @@ NOTA: Todos los archivos deben estar en la misma carpeta.
   OPCIÓN 2: COMPARTIR POR CORREO/WEB
 ═══════════════════════════════════════════════════════════
 
-MÉTODO A - Subir a Google Drive / Dropbox:
+ Subir a Google Drive / Dropbox:
   1. Sube la carpeta completa a Google Drive o Dropbox
   2. Comparte el enlace con la persona
   3. La persona descarga la carpeta y abre index.html
 
-MÉTODO B - Subir a GitHub Pages (GRATIS y en línea):
-  1. Ve a https://github.com y crea una cuenta (si no tienes)
-  2. Crea un nuevo repositorio (botón verde "New")
-  3. Sube todos los archivos
-  4. Ve a Settings > Pages
-  5. Selecciona la rama "main" y guarda
-  6. GitHub te dará un enlace público (ejemplo: 
-     https://tu-usuario.github.io/traductor-atbash)
-  7. Comparte ese enlace con quien quieras
 
 ═══════════════════════════════════════════════════════════
   OPCIÓN 3: USAR NETLIFY DROP (MUY FÁCIL)
@@ -60,5 +51,119 @@ MÉTODO B - Subir a GitHub Pages (GRATIS y en línea):
 
 ¿Dudas? La aplicación es completamente funcional y no 
 requiere instalación ni servidor. Solo necesitas un 
+navegador web moderno.
+
+
+
+
+═══════════════════════════════════════════════════════════
+  🔐 ATBASH TRANSLATOR - USAGE INSTRUCTIONS
+═══════════════════════════════════════════════════════════
+
+INCLUDED FILES:
+  - index.html     (Main page)
+  - styles.css     (Styles)
+  - script.js      (Functionality)
+  - README.md      (Documentation)
+
+═══════════════════════════════════════════════════════════
+  OPTION 1: USE LOCALLY (EASIEST)
+═══════════════════════════════════════════════════════════
+
+1. Extract all files into a folder
+2. Double-click on "index.html"
+3. Done! The application will open in your browser
+
+NOTE: All files must be in the same folder.
+
+═══════════════════════════════════════════════════════════
+  OPTION 2: SHARE VIA EMAIL/WEB
+═══════════════════════════════════════════════════════════
+
+Upload to Google Drive / Dropbox:
+  1. Upload the complete folder to Google Drive or Dropbox
+  2. Share the link with the person
+  3. The person downloads the folder and opens index.html
+
+═══════════════════════════════════════════════════════════
+  OPTION 3: USE NETLIFY DROP (VERY EASY)
+═══════════════════════════════════════════════════════════
+
+1. Go to https://app.netlify.com/drop
+2. Drag the complete folder to the page
+3. Netlify will give you a public link automatically
+4. Share that link
+
+═══════════════════════════════════════════════════════════
+  FEATURES
+═══════════════════════════════════════════════════════════
+
+✓ Atbash encryption and decryption
+✓ Support for 3 languages: Spanish, English, Portuguese
+✓ Modern and easy-to-use interface
+✓ Works without internet (once downloaded)
+✓ Compatible with all modern browsers
+
+═══════════════════════════════════════════════════════════
+
+Questions? The application is fully functional and does 
+not require installation or server. You only need a 
+modern web browser.
+
+
+
+
+═══════════════════════════════════════════════════════════
+  🔐 TRADUTOR ATBASH - INSTRUÇÕES DE USO
+═══════════════════════════════════════════════════════════
+
+ARQUIVOS INCLUÍDOS:
+  - index.html     (Página principal)
+  - styles.css     (Estilos)
+  - script.js      (Funcionalidade)
+  - README.md      (Documentação)
+
+═══════════════════════════════════════════════════════════
+  OPÇÃO 1: USAR LOCALMENTE (MAIS FÁCIL)
+═══════════════════════════════════════════════════════════
+
+1. Extraia todos os arquivos em uma pasta
+2. Dê um duplo clique em "index.html"
+3. Pronto! A aplicação abrirá no seu navegador
+
+NOTA: Todos os arquivos devem estar na mesma pasta.
+
+═══════════════════════════════════════════════════════════
+  OPÇÃO 2: COMPARTILHAR POR E-MAIL/WEB
+═══════════════════════════════════════════════════════════
+
+Enviar para Google Drive / Dropbox:
+  1. Envie a pasta completa para o Google Drive ou Dropbox
+  2. Compartilhe o link com a pessoa
+  3. A pessoa baixa a pasta e abre index.html
+
+═══════════════════════════════════════════════════════════
+  OPÇÃO 3: USAR NETLIFY DROP (MUITO FÁCIL)
+═══════════════════════════════════════════════════════════
+
+1. Vá para https://app.netlify.com/drop
+2. Arraste a pasta completa para a página
+3. O Netlify lhe dará um link público automaticamente
+4. Compartilhe esse link
+
+═══════════════════════════════════════════════════════════
+  CARACTERÍSTICAS
+═══════════════════════════════════════════════════════════
+
+✓ Criptografia e descriptografia Atbash
+✓ Suporte para 3 idiomas: Espanhol, Inglês, Português
+✓ Interface moderna e fácil de usar
+✓ Funciona sem internet (uma vez baixado)
+✓ Compatível com todos os navegadores modernos
+
+═══════════════════════════════════════════════════════════
+
+Dúvidas? A aplicação é completamente funcional e não 
+requer instalação nem servidor. Você só precisa de um 
 navegador web moderno.
 
